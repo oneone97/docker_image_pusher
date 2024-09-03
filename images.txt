@@ -1,5 +1,5 @@
 #discourse/base:release
-discourse/base:2.0.20240602-0023
+#discourse/base:2.0.20240602-0023
 yidadaa/chatgpt-next-web
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
